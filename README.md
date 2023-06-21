@@ -1,16 +1,15 @@
-### Hi there 👋
+<!-- **adcavalcant/adcavalcant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+E ai pessoal 👋
+Sou um FullStack Developer 💻
 
-<!--
-**adcavalcant/adcavalcant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀   Estou trabalhando na Força Aérea Brasileira.
 
-Here are some ideas to get you started:
+⚡   Buscando aprender mais sobre Angular e Laravel.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+😁   Posso te ajudar com HTML, CSS, Javascript, Angular, PHP, Laravel, Postgres, Padrões e Arquiteturas em projetos WEB.
+
+💻   Minha stack: HTML, CSS, Javascript, Angular, PHP, Laravel, Postgres.
+
+💬   Sobre mim: Curto aprender tecnologias, em especial que sejam diferentes, disruptivas e desafiadoras.
+
+📧   Entre em contato comigo: http://linkedin.com/adcavalcant

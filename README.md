@@ -10,8 +10,7 @@
 
 💬   Sobre mim: Curto aprender tecnologias, em especial que sejam diferentes, disruptivas e desafiadoras.
 
-📧   Entre em contato comigo: 
-<a href="http://linkedin.com/adcavalcant">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" width="80" height="80" alt="LinkedIn" />
+<a href="http://linkedin.com/adcavalcant" target="_blank" style="display: inline-block; background-color: #0077B5; color: #fff; padding: 10px; border-radius: 5px; text-decoration: none;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" alt="LinkedIn" style="width: 80px; height: 80px;" />
 </a>
 

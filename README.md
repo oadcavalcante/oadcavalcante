@@ -1,7 +1,6 @@
 <!-- **adcavalcant/adcavalcant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-FullStack Developer 💻
 
-🚀   Estou trabalhando no Centro de Computação de Aeronáutica de Brasília (Força Aérea Brasileira).
+🚀💻   Desenvolvedor de Software no Centro de Computação de Aeronáutica de Brasília (Força Aérea Brasileira).
 
 ⚡   Buscando aprender mais sobre Angular e Laravel.
 
@@ -11,4 +10,8 @@ FullStack Developer 💻
 
 💬   Sobre mim: Curto aprender tecnologias, em especial que sejam diferentes, disruptivas e desafiadoras.
 
-📧   Entre em contato comigo: http://linkedin.com/adcavalcant
+📧   Entre em contato comigo: 
+<a href="http://linkedin.com/adcavalcant">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" width="80" height="80" alt="LinkedIn" />
+</a>
+

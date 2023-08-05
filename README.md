@@ -10,7 +10,7 @@
 
 💬   About me: I enjoy learning technologies, especially those that are different, disruptive and challenging.
 
-✉️    Contact me: <br>
+✉️    Contact me: <br><br>
 <a href="http://linkedin.com/in/adcavalcant" target="_blank" style="display: inline-block; background-color: #0077B5; color: #fff; padding: 10px; border-radius: 5px; text-decoration: none;">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" style="width: 60px; height: 60px;" />
 </a>

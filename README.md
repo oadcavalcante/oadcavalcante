@@ -4,7 +4,7 @@
 
 ⚡   Seeking to learn more about Angular and Laravel.
 
-😁   I can help you with HTML, CSS, Javascript, Angular, PHP, Laravel, Postgres and Patterns/Architectures in WEB projects.
+😁   I can help you with HTML, CSS, Javascript, Angular, PHP, Laravel, PostgreSQL and Patterns/Architectures in WEB projects.
 
 💻   My stack: HTML, CSS, Javascript, Angular, PHP, Laravel, Postgres.
 

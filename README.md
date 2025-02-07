@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/648fe987-78b5-4729-b107-2e6eea955554)<!-- **adcavalcant/adcavalcant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+<!-- **adcavalcant/adcavalcant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 # **Oi, meu nome é Aderbal Cavalcante**  
 

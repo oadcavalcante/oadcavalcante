@@ -1,15 +1,38 @@
-<!-- **adcavalcant/adcavalcant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+![image](https://github.com/user-attachments/assets/648fe987-78b5-4729-b107-2e6eea955554)<!-- **adcavalcant/adcavalcant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-🚀💻   Software Developer at the Aeronautics Computing Center of Brasilia (Brazilian Air Force).
+# **Oi, meu nome é Aderbal Cavalcante**  
 
-⚡   Seeking to learn more about Angular and Spring.
+![oadcavalcante's GitHub stats](https://github-readme-stats.vercel.app/api?username=oadcavalcante&show_icons=true&theme=tokyonight) &nbsp;&nbsp;&nbsp; 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oadcavalcante&layout=compact&theme=tokyonight)
 
-😁   I can help you with HTML, CSS, JS, TS, Angular, Spring, Laravel, PostgreSQL and Patterns/Architectures in WEB projects.
+- Desenvolvedor Full Stack no Centro de Computação da Aeronáutica de Brasília. 🚀
 
-💻   My actual stack: Angular + Spring
+- Minha stack atual inclui **Spring Framework (Java), Angular v2+ (TypeScript), PostgreSQL**. 💻
 
-✉️    Contact me: <br><br>
-<a href="http://linkedin.com/in/oadcavalcante" target="_blank" style="display: inline-block; background-color: #0077B5; color: #fff; padding: 10px; border-radius: 5px; text-decoration: none;">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" style="width: 60px; height: 60px;" />
-</a>
+- Sou formado em **Engenharia da Computação** e apaixonado por tecnologia. Atualmente, estou estudando **DevOps**. 🎓
 
+<div style="display: inline_block"><br>
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+</div>  
+<br>
+<div>
+  <a href="https://www.linkedin.com/in/oadcavalcante" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+ &nbsp;
+  <a href="https://instagram.com/oadcavalcante" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+ &nbsp;
+  <a href="mailto:aderc19@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red">
+  </a>
+</div>  

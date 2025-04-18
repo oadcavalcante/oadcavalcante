@@ -4,7 +4,7 @@
 
 - Desenvolvedor Full Stack no Centro de Computação da Aeronáutica de Brasília. 🚀
 
-- Minha stack atual inclui **Spring Framework (Java), Angular v2+ (TypeScript), PostgreSQL**. 💻
+- Minha stack atual inclui **Spring Framework (Java), Angular v2+ (TypeScript), PostgreSQL, Docker**. 💻
 
 - Sou formado em **Engenharia da Computação** e apaixonado por tecnologia. Atualmente, estou estudando **DevOps**. 🎓
 

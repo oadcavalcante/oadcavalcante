@@ -2,11 +2,11 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oadcavalcante&layout=compact&theme=tokyonight)
 
-- Desenvolvedor Full Stack no Centro de Computação da Aeronáutica de Brasília. 🚀
+- Desenvolvedor Full Stack. 🚀
 
 - Minha stack atual inclui **Spring Framework (Java), Angular v2+ (TypeScript), PostgreSQL, Docker**. 💻
 
-- Sou formado em **Engenharia da Computação**. 🎓
+- Formado em **Engenharia da Computação**. 🎓
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">

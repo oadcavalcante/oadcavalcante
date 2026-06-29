@@ -1,28 +1,28 @@
 <!-- Perfil GitHub: este README aparece em github.com/oadcavalcante -->
 
-# Hi there! 👋 I'm Aderbal
+# Aderbal Cavalcante
 
-**Software & AI Engineer** 🇧🇷
+**Software & AI Engineer**
 
-I build enterprise software, distributed systems and intelligent applications.
+Software engineer focused on building enterprise applications, distributed systems and AI-powered solutions.
 
-Currently focused on Java, Python, Artificial Intelligence, backend architecture and scalable systems.
+Currently working with Java, Python, Spring Boot, Artificial Intelligence, Large Language Models (LLMs) and AI Agents.
 
 ---
 
-### 🚀 What I enjoy building
+## Areas of Interest
 
-* Enterprise Applications
-* REST APIs
+* Software Architecture
 * Distributed Systems
+* Artificial Intelligence
 * AI Agents
-* LLM Integrations
-* Developer Tools
-* Automation
+* Large Language Models (LLMs)
+* Backend Engineering
+* Developer Experience
 
 ---
 
-### 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -30,7 +30,7 @@ Currently focused on Java, Python, Artificial Intelligence, backend architecture
 
 **Backend**
 
-`Spring Boot` • `FastAPI` • `REST APIs`
+`Spring Boot` • `Spring Security` • `Spring Data JPA` • `FastAPI`
 
 **Frontend**
 
@@ -38,20 +38,19 @@ Currently focused on Java, Python, Artificial Intelligence, backend architecture
 
 **Architecture**
 
-`Microservices` • `RabbitMQ` • `Kafka` • `Docker` • `Kubernetes`
+`Microservices` • `REST APIs` • `RabbitMQ` • `Kafka` • `Docker` • `Kubernetes`
 
 **Databases**
 
 `PostgreSQL` • `Oracle` • `MySQL` • `MongoDB` • `Redis`
 
-**AI**
+**Artificial Intelligence**
 
-`LLMs` • `AI Agents` • `RAG` • `MCP` • `Transformers`
+`LLMs` • `AI Agents` • `RAG` • `MCP` • `Prompt Engineering` • `Transformers`
 
 ---
 
 <p align="left">
-
   <!-- Linguagens -->
   <img alt="Java" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
   <img alt="Python" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
@@ -88,13 +87,12 @@ Currently focused on Java, Python, Artificial Intelligence, backend architecture
   <img alt="Git" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
   <img alt="Linux" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
   <img alt="Windows" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" />
-
 </p>
 
 ---
 
-### 🤝 Let's connect
+## Contact
 
-* 🌐 Portfolio → https://oadcavalcante.com.br
-* 💼 LinkedIn → https://linkedin.com/in/oadcavalcante
-* 📧 Email → [adcavalcante.neto@gmail.com](mailto:adcavalcante.neto@gmail.com)
+* Portfolio — https://oadcavalcante.com.br
+* LinkedIn — https://linkedin.com/in/oadcavalcante
+* Email — [adcavalcante.neto@gmail.com](mailto:adcavalcante.neto@gmail.com)

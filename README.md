@@ -18,7 +18,7 @@ Currently working with Java, Python, Spring Boot, Artificial Intelligence, Large
 * AI Agents
 * Large Language Models (LLMs)
 * Backend Engineering
-* Developer Experience
+* Frontend Engineering
 
 ---
 

@@ -34,12 +34,12 @@ public class Aderbal extends EngenheiroDeSoftware implements EngenheiroDeIA {
 }
 ```
 
-- 🤖 Projeto e entrego **produtos baseados em LLMs** — agentes, pipelines RAG, tool-calling, avaliação e guardrails
+- 🤖 Projeto e entrego **produtos baseados em LLMs**: agentes, pipelines RAG, tool-calling, avaliação e guardrails
 - ☕ Raízes profundas no **mundo Java enterprise**: Spring Boot, Spring Security, JPA, geração full-stack com JHipster
 - 🅰️ Entrega full-stack com **Angular** no front e **Spring** no back
-- 🐍 **Python** para cargas de IA — serviços FastAPI, LangChain/LangGraph, bancos vetoriais
+- 🐍 **Python** para cargas de IA: serviços FastAPI, LangChain/LangGraph, bancos vetoriais
 - 🏗️ Apaixonado por **arquitetura de software**, sistemas distribuídos e modernização de código legado
-- 📚 Sempre estudando — no momento, aprofundando em orquestração de agentes, evals e MLOps
+- 📚 Sempre estudando, no momento, aprofundando em orquestração de agentes, evals e MLOps
 
 ---
 

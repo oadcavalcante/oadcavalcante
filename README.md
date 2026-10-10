@@ -17,7 +17,7 @@
 ## 👨‍💻 Sobre mim
 
 ```java
-public class Aderbal extends EngenheiroDeSoftware implements EngenheiroDeIA {
+public class AderbalCavalcante extends EngenheiroDeSoftware implements EngenheiroDeIA {
 
     private final String   localizacao = "Brasil 🇧🇷";
     private final String   cargo       = "Engenheiro de Software & IA";
